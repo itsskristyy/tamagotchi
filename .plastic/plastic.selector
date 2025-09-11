@@ -1,0 +1,4 @@
+repository "tamagotchi/tamagotchi@2475880910124@cloud"
+  path "/"
+    br "/main"
+    co "/main"
